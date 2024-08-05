@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.devop.GradlesampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-27T09:05:37" hostname="SOWMYA" time="0.026">
+  <properties/>
+  <testcase name="verifyNoExceptionThrown" classname="com.devop.GradlesampleTest" time="0.026"/>
+  <system-out><![CDATA[The current local time is:14:35:37.534788900
+Hello World
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
